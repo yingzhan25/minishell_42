@@ -1,5 +1,7 @@
 # minishell_42
 
+This project is a collaboration with [@thedreamJK7](https://github.com/thedreamJK7).
+
 A minimal shell implementation in C, developed as part of the 42 School curriculum. This project demonstrates core concepts of Unix shell programming, including parsing, command execution, environment variable management, and basic job control.
 
 ## Features
